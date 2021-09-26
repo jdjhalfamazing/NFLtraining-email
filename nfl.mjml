@@ -1,0 +1,101 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Quantico" href="https://fonts.googleapis.com/css2?family=Quantico" />
+    <mj-attributes>
+      <mj-text font-family="Quantico, sans-serif" align="center" font-size="16px" line-height="24px" color="#ffffff" padding="0px" />
+      <mj-image padding="0px" />
+      <mj-button background-color="#634333" font-size="14px" color="#000000" font-family="Quantico, sans-serif" text-transform="uppercase" border-radius="0px" height="40px" width="195px" />
+      <mj-section padding="0px" background-color="#000000" />
+      <mj-class name="head-text" font-size="50px" Line-height="70px" text-transform="uppercaser" />
+    </mj-attributes>
+  </mj-head>
+  <!-- logo section-->
+  <mj-body background-color="#000000">
+    <mj-section>
+      <mj-column>
+        <mj-image width="130px" padding="1px" src="logo.jpg" alt="Logo" />
+      </mj-column>
+    </mj-section>
+    <!--welcome section -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="improve1.png" href="www.nfl.com" padding="2px" alt="Improve Performance" />
+      </mj-column>
+    </mj-section>
+    <!--discount section-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="Discount.jpg" padding="2px" alt="Train like Pros" />
+        <mj-button padding="2px" href="www.nfl.com"> get your 20% NOW </mj-button>
+        <mj-text font-size="13px"> Use Promo Code 234jj22j When Checking Out </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Why Section-->
+    <mj-section padding-top="80px" padding-left="20px" padding-right="20px">
+      <mj-column width="400px" padding-bottom="15px">
+        <mj-text mj-class="head-text" font-size="35px"> Why IMPROVE X? </mj-text>
+      </mj-column>
+      <mj-column width="600px">
+        <mj-text padding="2px"> We have some of the best professional trainers the NFL has to offer who are dedicated to transforming even average athletes into superior playmakers. </mj-text>
+        <mj-image href="nfl.com" src="vertical.png" width="900px" alt="Joing Now and Improve Performance" />
+      </mj-column>
+    </mj-section>
+    <!--video section-->
+    <mj-section padding-top="40px">
+      <mj-column padding-bottom="15px">
+        <mj-text mj-class="head-text" padding-bottom="10px"> Become a Pro </mj-text>
+        <mj-text> Check out an inspiring video </mj-text>
+        <mj-image width="00px" src="bellvideo.png" href="https://www.youtube.com/watch?v=F3b8U_-ReVE" />
+      </mj-column>
+    </mj-section>
+    <!--servides section-->
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="30px" padding-right="20px" padding-left="20px" text-transform="uppercase"> Outstanding Service </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--Gurantees Section-->
+    <mj-section padding-top="30px" padding-left="50px" padding-right="50px">
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="RF.png" />
+        <mj-text> We'll Respond Quickly </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="RF.png" />
+        <mj-text> We'll Respond Quickly </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="RF.png" />
+        <mj-text> We'll Respond Quickly </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="RF.png" />
+        <mj-text> We'll Respond Quickly </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--payment section-->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <img src="applepay.png" width="50px" style="padding:5px;" />
+          <img src="cashapp.png" width="50px" style="padding:5px;" />
+          <img src="paypal.png" width="50px" style="padding:5px;" />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--footer-->
+    <mj-section background-color="#F6F6EF" padding-bottom="30px">
+      <mj-column width="300px" padding-top="30px">
+        <mj-text>
+          <img src="facebook.png" width="25px" style="padding:5px;" />
+          <img src="instagram.png" width="25px" style="padding:5px;" />
+          <img src="twitter.png" width="25px" style="padding:5px;" />
+          <img src="tt.png" width="25px" style="padding:5px;" />
+        </mj-text>
+        <mj-text color="#303030" font-family="Hevetica">
+          <a href="www.nfl.com"> Unsubscribe Here </>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
